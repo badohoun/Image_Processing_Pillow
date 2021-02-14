@@ -54,7 +54,7 @@ if option == "HomePage":
     """
 
     # Image processing with Pillow in Python  :
-     Please select a page on the left
+     Please select a page 
     """
 
 
